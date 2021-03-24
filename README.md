@@ -41,8 +41,8 @@ https://github.com/n-flam/ReverseEngineeringCode
 # GoogleDrive
 https://drive.google.com/file/d/1-gkNytqh0OBfvoirGiryY-PfE-GPbKTw/view?usp=sharing
 
-# instructions
-https://homemadeburger.herokuapp.com/
+# instructions PDF
+https://github.com/n-flam/ReverseEngineeringCode/blob/main/walk-through.pdf
 
 
 

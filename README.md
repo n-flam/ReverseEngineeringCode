@@ -35,11 +35,11 @@ You are required to submit the following:
 _Note: Don't forget to change the sharing settings on your Google Doc._
 
 # github
-https://github.com/n-flam/HomemadeBurger
+https://github.com/n-flam/ReverseEngineeringCode
 
 
 # GoogleDrive
-![Alt text](https://github.com/n-flam/HomemadeBurger/blob/main/assets/screenshot.jpg)
+![Alt text](https://drive.google.com/file/d/1-gkNytqh0OBfvoirGiryY-PfE-GPbKTw/view?usp=sharing)
 
 # instructions
 https://homemadeburger.herokuapp.com/

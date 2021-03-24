@@ -39,7 +39,7 @@ https://github.com/n-flam/ReverseEngineeringCode
 
 
 # GoogleDrive
-![Alt text](https://drive.google.com/file/d/1-gkNytqh0OBfvoirGiryY-PfE-GPbKTw/view?usp=sharing)
+https://drive.google.com/file/d/1-gkNytqh0OBfvoirGiryY-PfE-GPbKTw/view?usp=sharing
 
 # instructions
 https://homemadeburger.herokuapp.com/
